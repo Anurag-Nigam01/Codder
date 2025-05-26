@@ -2,7 +2,7 @@
 
 # 30 seconds of code
 
-> Coding articles to level up your development skills
+> Coding articles to level up your development skills and technologies 
 
 * Visit [the website](https://30secondsofcode.org) to view all articles.
 * Search for articles and collections that suit your needs, using the name, tags, language or description.
